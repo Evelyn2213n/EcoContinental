@@ -1,0 +1,26 @@
+.container {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+input {
+  padding: 12px;
+  border-radius: 12px;
+  border: 1px solid #aaa;
+}
+
+.btn-reportar {
+  padding: 12px;
+  background: #76b947;
+  color: white;
+  border: none;
+  border-radius: 10px;
+}
+
+.btn-back {
+  background: #ccc;
+  padding: 10px;
+  border-radius: 10px;
+}
